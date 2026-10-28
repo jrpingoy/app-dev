@@ -1,2 +1,7 @@
 # app-dev
-My first Resporitory
+My first resporitory
+
+
+# My Favorite Series/Movies
+** The Night Agent **
+* **Genre** Action
